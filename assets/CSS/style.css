@@ -1,0 +1,115 @@
+
+
+.header{
+  background-image: url("../IMG/header.jpg");
+  background-color: yellow;
+  position: relative;
+  width: auto;
+  height: 10rem;
+  padding: 5rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.title1 {
+  font-size: 5em;
+  color: black;
+  text-align: center;
+  margin-top: 0;
+}
+
+.title2 {
+  font-size: 2em;
+  color:black;
+  text-align: center;
+}
+
+.f2 {
+  opacity: 0.8;
+  margin: 0
+  padding-right: 1rem;
+  margin-right: 1rem;
+}
+
+img{
+  background-color: white;
+  opacity: 0.8;
+  margin: 0;
+  padding-right: 1rem;
+  border: 1px solid orangered;
+
+}
+
+
+.fondo {
+  background-color: white;
+  opacity: 0.8;
+  margin: 0;
+  padding-right: 1rem;
+  margin-right: 1rem;
+  border: 1px solid orangered;
+}
+
+
+
+
+.main{
+  background-image: url("../IMG/Wallpaper.jpg");
+  background-size: cover;
+  margin: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.flex {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0% 20% 0% 20%;
+  
+}
+
+.nombre_cactus {
+  font-weight: bold;
+  color: black;
+  font-style: normal;
+}
+
+
+.descripcion {
+  text-align: justify;
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.cactus {
+  width:450px;
+  max-height: 350px;
+ }
+
+
+
+
+ .footer {
+  background-color: rgb( 117, 84, 55);
+  color: bisque;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+
+
+}
+
+
+    
